@@ -86,8 +86,9 @@ Construindo páginas para internet com Bootstrap
 Aprenda a utilizar o framework Bootstrap e aprofunde mais o seu conhecimento em HTML5 e CSS3.
 
 <a href="https://certificates.digitalinnovation.one/978F9337">Certificado</a>
+<a href="https://staelsabrina.github.io/Bootcamp_HTML_Web_Dev/Construindo_pag_Bootstrap/index.html">Página do Projeto</a>
 
--------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 Fundamentos Aritméticos em JavaScript
 
@@ -95,7 +96,7 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 <a href="#">Certificado</a>
 
--------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 Recriando o jogo da cobrinha com JavaScript
 
@@ -103,7 +104,7 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 
 <a href="#">Certificado</a>
 
--------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 
 Este Bootcamp possui vários minicursos que já foram realizados anteriormente eu outro Bootcamp.
