@@ -1,5 +1,8 @@
 Bootcamp HTML Web Developer
 
+Este Bootcamp possui vários minicursos que já foram realizados anteriormente eu outro Bootcamp.
+Para não haver apenas cópia de códigos e projetos, referencio abaixo os links para os arquivos em outros respositórios. Acesse os links em cada módulo.
+
 
 Conteúdo do Bootcamp: 
 
@@ -107,7 +110,5 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 -----------------------------------------------------------------------
 
 
-Este Bootcamp possui vários minicursos que já foram realizados anteriormente eu outro Bootcamp.
-Para não haver apenas cópia de códigos e projetos, referencio abaixo os links para os arquivos em outros respositórios. Acesse os links em cada módulo.
 
 
