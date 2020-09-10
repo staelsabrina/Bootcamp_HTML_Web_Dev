@@ -1,0 +1,9 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex; /* Define posicionamento */
+    justify-content: center; /* Alinha horizontamente no meio*/
+    align-items: center; /* Alinha verticalmente no meio*/
+    flex-direction: column; /* Muda a direção do flex para coluna*/
+    color: green;
+}
