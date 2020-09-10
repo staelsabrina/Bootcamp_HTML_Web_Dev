@@ -1,6 +1,6 @@
 Bootcamp HTML Web Developer
 
-<a href="https://certificates.digitalinnovation.one/47876B54">Cerificado de Conclusão do BootCamp</a>
+<a href="https://certificates.digitalinnovation.one/47876B54">Certificado de Conclusão do BootCamp</a>
 
 Este Bootcamp possui vários minicursos que já foram realizados anteriormente eu outro Bootcamp.
 Para não haver apenas cópia de códigos e projetos, referencio abaixo os links para os arquivos em outros respositórios. Acesse os links em cada módulo.
