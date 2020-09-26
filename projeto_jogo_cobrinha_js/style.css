@@ -13,3 +13,18 @@ body {
     color: green;
     font-family: 'Cobra';
 }
+
+footer#rodape {
+    font-family: 'Arial', sans-serif;
+    clear:both;
+}
+
+footer#rodape p{
+    text-align: center;
+    font-size: 10pt;
+    color: #888888;
+}
+
+footer#rodape p#cr {
+    margin-bottom: -10px;
+}
