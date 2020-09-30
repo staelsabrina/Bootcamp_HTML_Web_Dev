@@ -1,5 +1,19 @@
+@font-face {
+    font-family: 'gato';
+    src: url(../font/gato.otf);
+}
+
 body {
     font: 20px 'Arial', sans-serif;
+}
+
+h1 {
+    margin: 20px;
+    margin-bottom: 50px;
+    font-family: 'gato';
+    font-size: 120px;
+    text-decoration: underline;
+    color: #430d75;
 }
 
 .navbar {
